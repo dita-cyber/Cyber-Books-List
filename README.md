@@ -3,7 +3,7 @@
 **Technology / Cyber Stories**
 
 | Book   | Author | Link |
-| -------- | ------- | ------- |
+| :-------- | :------- | :------- |
 | placeholder  | author   | link  |
 | placeholder | author    | link  |
 | placeholder    | author   | link  |
