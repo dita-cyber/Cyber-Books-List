@@ -15,7 +15,7 @@ Full Amazon List for Cyber Books: https://www.amazon.com/hz/wishlist/ls/YJ452AW5
 | Hackers | Steven Levy | [link](https://www.amazon.com/dp/1449388396/?coliid=I3G9QJVN851E39&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
 | Nexus | Yuval Noah Harari | [link](https://www.amazon.com/dp/059373422X/?coliid=IAQAX5146ZT11&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
 | Pegasus | Laurent Richard | [link](https://www.amazon.com/dp/1250858674/?coliid=I14A7KA7EGY7T8&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
-| Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers | Andy Greenberg | [link](https://www.amazon.com/dp/0525564632/?coliid=I2EDQ2JFR2ZR7S&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
+| Sandworm  | Andy Greenberg | [link](https://www.amazon.com/dp/0525564632/?coliid=I2EDQ2JFR2ZR7S&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
 | Spam Nation | Brian Krebs | [link](https://www.amazon.com/dp/1492603236/?coliid=I2418O6MIDZCA4&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
 | Spies, Lies, and Algorithms | Amy B. Zegart | [link](https://www.amazon.com/dp/0691223076/?coliid=I202UIAH57GV99&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
 | The Art of Deception | Kevin Mitnick | [link](https://www.amazon.com/dp/076454280X/?coliid=I2R87B69PLYIPE&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
