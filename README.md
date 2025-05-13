@@ -19,5 +19,34 @@
 
 **Technical**
 
+| Book   | Author | Link |
+| :-------- | :------- | :------- |
+| placeholder  | author   | link  |
+| placeholder | author    | link  |
+| placeholder    | author   | link  |
+| placeholder  | author   | link  |
+| placeholder | author    | link  |
+| placeholder    | author   | link  |
+| placeholder  | author   | link  |
+| placeholder | author    | link  |
+| placeholder    | author   | link  |
+| placeholder  | author   | link  |
+| placeholder | author    | link  |
+| placeholder    | author   | link  |
 
 **Career Development**
+
+| Book   | Author | Link |
+| :-------- | :------- | :------- |
+| placeholder  | author   | link  |
+| placeholder | author    | link  |
+| placeholder    | author   | link  |
+| placeholder  | author   | link  |
+| placeholder | author    | link  |
+| placeholder    | author   | link  |
+| placeholder  | author   | link  |
+| placeholder | author    | link  |
+| placeholder    | author   | link  |
+| placeholder  | author   | link  |
+| placeholder | author    | link  |
+| placeholder    | author   | link  |
