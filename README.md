@@ -34,26 +34,34 @@ Full Amazon List for Cyber Books: https://www.amazon.com/hz/wishlist/ls/YJ452AW5
 
 **Technical**
 
-| Book   | Author | Link |
-| :-------- | :------- | :------- |
-| CTIFM: Cyber Threat Intelligence Field Manual | Chris Anthony  | [link ](https://www.amazon.com/dp/B0BRLYB8XG/?coliid=IEBIJBRTSWARG&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
-| Linux Basics for Hackers | OccupyTheWeb  | [link ](https://www.amazon.com/dp/1593278551/?coliid=ISRZOXCEHS6VV&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
-| Operator Handbook: Red Team + OSINT + Blue Team | Joshua Picolet  | [link ](https://www.amazon.com/dp/B085RR67H5/?coliid=IGRZB2IDMGILM&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
-| RTFM: Red Team Field Manual | Ben Clark | [link  ](https://www.amazon.com/dp/1075091837/?coliid=I134MCYPSTRKA1&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
-| BTFM: Blue Team Field Manual | Alan J White | [link](https://www.amazon.com/dp/154101636X/?coliid=I2O45KA11V8Z27&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp)  |
-| Nmap Network Scanning  | Gordon Fyodor Lyon  | [link  ](https://www.amazon.com/dp/0979958717/?coliid=I17E1TU60EBA2P&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
-| How Linux Works | Brian Ward  | [link  ](https://www.amazon.com/dp/1718500408/?coliid=I1ASY2B7X1OXJX&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp)|
-| How Computers Really Work | Matthew Justice  | [link ](https://www.amazon.com/dp/1718500661/?coliid=I38U5HUQ9UF2OE&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
-| How Cybersecurity Really Works | Sam Grubb | [link ](https://www.amazon.com/dp/1718501285/?coliid=IEKV96IUYHGV5&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
-| Python for Cybersecurity | Howard E. Poston III  | [link  ](https://www.amazon.com/dp/1119850649/?coliid=I1C04ZWN876T76&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
-| Quantum Computing For Dummies | whurley  | [link ](https://www.amazon.com/dp/1119933900/?coliid=I2I9NJ891EBWNC&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
-| How AI Works  | Ronald T. Kneusel  | [link ](https://www.amazon.com/dp/1718503725/?coliid=I2URWI3B8H2H8G&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
-| placeholder  | author   | link  |
-| placeholder | author    | link  |
-| placeholder    | author   | link  |
-| placeholder  | author   | link  |
-| placeholder | author    | link  |
-| placeholder    | author   | link  |
+| Book     |  Author              | Link |
+| :-------------------- | :---------------------- | :---------------------------------------------------------- |
+| Bug Bounty from Scratch                            | Francisco Javier Santiago Vázquez | [link](https://www.amazon.com/dp/1803239255/?coliid=I2W7A322DETUD0&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
+| BTFM: Blue Team Field Manual                       | Alan J White                      | [link](https://www.amazon.com/dp/154101636X/?coliid=I2O45KA11V8Z27&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
+| CTIFM: Cyber Threat Intelligence Field Manual      | Chris Anthony                     | [link](https://www.amazon.com/dp/B0BRLYB8XG/?coliid=IEBIJBRTSWARG&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
+| Data Analytics Using Splunk                        | Dr. Nadine Shillingford           | [link](https://www.amazon.com/dp/1803249412/?coliid=I1ZGC88HTM0B8T&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
+| Digital Forensics and Incident Response            | Gerard Johansen                   | [link](https://www.amazon.com/dp/183864900X/?coliid=IGRUMHCV3HWYY&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
+| Effective Threat Investigation for SOC Analysts    | Mostafa Yahia                     | [link](https://www.amazon.com/dp/1837634785/?coliid=I1EIENLTLE8125&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
+| Evasive Malware                                    | Kyle Cucci                        | [link](https://www.amazon.com/dp/1718503261/?coliid=I3KOGFZOFTKJ4T&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
+| How AI Works                                       | Ronald T. Kneusel                 | [link](https://www.amazon.com/dp/1718503725/?coliid=I2URWI3B8H2H8G&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
+| How Computers Really Work                          | Matthew Justice                   | [link](https://www.amazon.com/dp/1718500661/?coliid=I38U5HUQ9UF2OE&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
+| How Cybersecurity Really Works                     | Sam Grubb                         | [link](https://www.amazon.com/dp/1718501285/?coliid=IEKV96IUYHGV5&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
+| How Linux Works                                    | Brian Ward                        | [link](https://www.amazon.com/dp/1718500408/?coliid=I1ASY2B7X1OXJX&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
+| Internet Routing Architectures                     | Bassam Halabi                     | [link](https://www.amazon.com/dp/1562056522/?coliid=I2MHQ1UP588DTJ&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
+| Linux Basics for Hackers                           | OccupyTheWeb                      | [link](https://www.amazon.com/dp/1593278551/?coliid=ISRZOXCEHS6VV&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
+| Malware Analysis Techniques                        | Dylan Barker                      | [link](https://www.amazon.com/dp/1839212276/?coliid=I7YN64ARX2V3T&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
+| Mastering Windows Security and Hardening           | Mark Dunkerley                    | [link](https://www.amazon.com/dp/180323654X/?coliid=I3QSSNQZYTB4B9&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
+| Nmap Network Scanning                              | Gordon Fyodor Lyon                | [link](https://www.amazon.com/dp/0979958717/?coliid=I17E1TU60EBA2P&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
+| Operator Handbook: Red Team + OSINT + Blue Team    | Joshua Picolet                    | [link](https://www.amazon.com/dp/B085RR67H5/?coliid=IGRZB2IDMGILM&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
+| Practical Malware Analysis                         | Michael Sikorski                  | [link](https://www.amazon.com/dp/1593272901/?coliid=I2QORYL3YDCIW4&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
+| Practical Packet Analysis                          | Chris Sanders                    | [link](https://www.amazon.com/dp/1593278020/?coliid=I3E9LAPTGJM5GB&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
+| Python for Cybersecurity                           | Howard E. Poston III              | [link](https://www.amazon.com/dp/1119850649/?coliid=I1C04ZWN876T76&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
+| Quantum Computing For Dummies                      | whurley                          | [link](https://www.amazon.com/dp/1119933900/?coliid=I2I9NJ891EBWNC&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
+| RTFM: Red Team Field Manual                        | Ben Clark                         | [link](https://www.amazon.com/dp/1075091837/?coliid=I134MCYPSTRKA1&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
+| The OSINT Handbook                                 | Dale Meredith                    | [link](https://www.amazon.com/dp/1837638276/?coliid=I35P2EQVMYEKYU&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
+| The TCP/IP Guide                                   | Charles M. Kozierok              | [link](https://www.amazon.com/dp/159327047X/?coliid=I2ZUDIYO34HU7S&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
+| Windows Internals Part 1                           | Pavel Yosifovich                 | [link](https://www.amazon.com/dp/0735684189/?coliid=IRPG4TDKXQICR&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
+| Windows Internals, Part 2                          | Mark Russinovich                 | [link](https://www.amazon.com/dp/0135462401/?coliid=IHEU4Y3E97PB4&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
 
 **Career Development**
 
