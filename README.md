@@ -2,7 +2,7 @@
 
 Full Amazon List for Cyber Books: https://www.amazon.com/hz/wishlist/ls/YJ452AW5Q58R?ref_=wl_share
 
-**Technology / Cyber Stories**
+<h1>**Technology / Cyber Stories**</h1>
 
 | Book | Author | Link |
 | :-------- | :------- | :------- |
@@ -32,7 +32,7 @@ Full Amazon List for Cyber Books: https://www.amazon.com/hz/wishlist/ls/YJ452AW5
 | Tribe of Hackers | Marcus J. Carey | [link](https://www.amazon.com/dp/1119643376/?coliid=I3K2BTXBL8QR6L&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
 | Weapons of Math Destruction | Cathy O'Neil | [link](https://www.amazon.com/dp/0553418831/?coliid=I10KN1JY7VI8QE&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
 
-**Technical**
+<h1>**Technical**</h1>
 
 | Book     |  Author              | Link |
 | :-------------------- | :---------------------- | :---------------------------------------------------------- |
@@ -63,7 +63,7 @@ Full Amazon List for Cyber Books: https://www.amazon.com/hz/wishlist/ls/YJ452AW5
 | Windows Internals Part 1                           | Pavel Yosifovich                 | [link](https://www.amazon.com/dp/0735684189/?coliid=IRPG4TDKXQICR&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
 | Windows Internals, Part 2                          | Mark Russinovich                 | [link](https://www.amazon.com/dp/0135462401/?coliid=IHEU4Y3E97PB4&colid=YJ452AW5Q58R&psc=1&ref_=list_c_wl_gv_vv_lig_pi_dp) |
 
-**Career Development**
+<h1>**Career Development**</h1>
 
 | Book                                     | Author           | Link                                                                                                                       |
 | :--------------------------------------- | :--------------- | :------------------------------------------------------------------------------------------------------------------------- |
